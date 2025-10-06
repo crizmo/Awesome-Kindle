@@ -46,7 +46,7 @@
 ### Development
 
 - [kTerm](https://github.com/bfabiszewski/kterm) - An e-ink optimised terminal for kindles
-- [Illusion](https://github.com/polish-penguin-dev/Penguins-Kindle-Wiki/blob/main/Illusion-Guide.md) - A scriptlet which allows you to create HTML, CSS, JS aps
+- [Illusion](https://github.com/polish-penguin-dev/Penguins-Kindle-Wiki/blob/main/Illusion-Guide.md) - A scriptlet which allows you to create HTML, CSS, JS apps
 - [ScreenControl](https://kindlemodshelf.me/screencontrol.html) - Mirrors your kindle's screen online, allows for input
 
 ### Miscellaneous
