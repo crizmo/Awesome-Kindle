@@ -9,9 +9,9 @@
 
 ## Table of Contents
 
-- [Community Resources]()
-- [Tweaks]()
-- [Related Lists]()
+- [Community Resources](#community-resources)
+- [Tweaks](#tweaks)
+- [Related Lists](#related-lists)
 
 ## Community Resources
 
