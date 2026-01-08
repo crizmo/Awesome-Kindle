@@ -56,6 +56,7 @@
 - [Crossword](https://github.com/roygbyte/crossword.koplugin) - Kindle crossword, text-based puzzle
 - [Tetris](https://kindlemodshelf.me/tetris.html) - Classic game built for kindle, ran in terminal
 - [KindleKraft](https://github.com/polish-penguin-dev/KindleKraft) - Soft-float Kindle 1.8 Minecraft server
+- [KShips](https://github.com/LOT-Projects/KShips) - BattleShip port to the Kindle
 
 ### Development
 
