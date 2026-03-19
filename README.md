@@ -41,6 +41,7 @@
 - [KindleForge](https://github.com/KindleTweaks/KindleForge) - Download Kindle Tweaks with ease
 - [KindleFetch](https://github.com/justrals/KindleFetch) - Download books from Anna's Archive
 - [Disable ADs](https://scriptlets.notmarek.com/scriptlets/disable_ads.sh) - Disable ads on ad-enabled Kindles
+- [HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater) - Update Universal hotfix instantly.
 
 ### Productivity
 
